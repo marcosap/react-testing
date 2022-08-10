@@ -1,5 +1,7 @@
 import React from "react";
 
+import './input.css'
+
 export default function Input({id, label, value, onChange, onBlur, errorMessage}) {
 
     return <div className="input-group">

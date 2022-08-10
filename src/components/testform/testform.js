@@ -1,6 +1,8 @@
 import React, { useState } from 'react'
 import Input from '../input/input'
 
+import './testform.css'
+
 export default function TestForm() {
 
     const [value, setValue] = useState('')

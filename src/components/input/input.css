@@ -1,0 +1,16 @@
+.input-group {
+    text-align: left;
+    margin: 0 auto;
+    height: 80px;
+}
+
+.input-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.input-group .input-error {
+    font-size: 12px;
+    color: tomato;
+}
